@@ -1,5 +1,8 @@
 # React + Vite
-ADMIN EMAILID = Admin@me.com
+employe emailmid and password =
+id = arjun1.com
+password=123
+ADMIN EMAILID = admin@me.com
 ADMIN PASSWORD =123
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
