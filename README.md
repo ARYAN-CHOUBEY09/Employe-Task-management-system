@@ -1,5 +1,5 @@
 # React + Vite
-employe emailmid and password =
+employe email & password =
 id = arjun1.com
 password=123
 ADMIN EMAILID = admin@me.com
