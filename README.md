@@ -1,14 +1,14 @@
 # React + Vite
-employe email and  password =
-id = arjun1.com
-password=123
-ADMIN EMAILID = admin@me.com
-ADMIN PASSWORD =123
-live link = https://employee-management-system-new.netlify.app/
+employe email and  password =<BR>
+id = arjun1.com<BR>
+password=123<BR>
+ADMIN EMAILID = admin@me.com<BR>
+ADMIN PASSWORD =123<BR>
+live link = https://employee-management-system-new.netlify.app/<BR>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.<BR>
 
-Currently, two official plugins are available:
+Currently, two official plugins are available:<BR>
 
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
